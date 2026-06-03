@@ -14,7 +14,7 @@ Part A: Data Cleaning
 Part B: EDA
 1. Calculated statistical measures over price column using aggregate functions count, min, max, avg, std
 2. Finding outliers in price column by calculating quartiles using 'percentile_cont' window function.
-3. Plotted horizontal histograms for price categories using 'case statement', 'groupby'. giving result as shown
+3. Plotted horizontal histograms for price categories using 'case statement', 'groupby'.
 4. for categorical cols- value counts are generated visualised in excel using pie chart
 5. for numerical categorical pair- compared distribution across categories using groupby
 6. for pairs of numerical cols- scatterplots are generated
